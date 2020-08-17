@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Adenilson Brito Dos Santos :man_tecnhologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkeIn-blue?styles=float-square&logo=Linkein&logo=white&link=https://www.linkedin.com/in/adenilson-developer)](www.linkedin.com/in/adenilson-developer/)
+
+### Welcome to my profile
+
+My name is Adenilson end ...:
+
+- 😄 I really like to learn
+- 🔭 I’m currently working with Nodejs and Reactjs
+- 🌱 I’m currently studying  Master of Business Administration Software Engineering.
+- I have certification in SCRUM FOUNDATION PROFESSIONAL CERTIFICATE
+- 💬 Ask me about: I'm 27 years old, currently I live in São Paulo.
