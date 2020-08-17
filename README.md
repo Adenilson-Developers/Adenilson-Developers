@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Adenilson Brito Dos Santos :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adenilson-developer/)](www.linkedin.com/in/adenilson-developer/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adenilson-developer/)](https://www.linkedin.com/in/adenilson-developer/)
 
 ### Welcome to my profile
 
