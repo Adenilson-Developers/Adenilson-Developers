@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Adenilson Brito Dos Santos :man_tecnhologist:
+# Adenilson Brito Dos Santos :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkeIn-blue?styles=float-square&logo=Linkein&logo=white&link=https://www.linkedin.com/in/adenilson-developer)](www.linkedin.com/in/adenilson-developer/)
 
