@@ -27,3 +27,5 @@ My name is Adenilson end ...:
 - 🌱 I’m currently studying  Master of Business Administration Software Engineering.
 - I have certification in SCRUM FOUNDATION PROFESSIONAL CERTIFICATE
 - 💬 Ask me about: I'm 27 years old, currently I live in São Paulo.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adenilson-Developer)](https://github.com/anuraghazra/github-readme-stats)
