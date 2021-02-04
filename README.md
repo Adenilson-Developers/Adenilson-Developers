@@ -28,4 +28,6 @@ My name is Adenilson end ...:
 - I have certification in SCRUM FOUNDATION PROFESSIONAL CERTIFICATE
 - 💬 Ask me about: I'm 27 years old, currently I live in São Paulo.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adenilson-Developers)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adenilson-Developers&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
